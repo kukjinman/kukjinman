@@ -1,9 +1,5 @@
 <div align="center">
 
-
-![cylinder](https://capsule-render.vercel.app/api?type=cylinder&color=auto&customColorList=2,22,22,25,20&text=KUKJIN%20MAN's%20github&fontAlignY=50&fontSize=35&height=100&animation=twinkling&descAlignY=70&fontColor=d6ace6)
-<br><br>
-  
 <hr>
 <br> 
   
@@ -12,7 +8,7 @@
 <br>
 <hr/>
 
-<br><br>
+<br>
 
 <h3 align="center"> Tech Stack </h3>
 
@@ -30,7 +26,7 @@
 
   
 
-<br><br>  
+<br> 
   
 <h3 align="center"> Contact Me </h3>
 
