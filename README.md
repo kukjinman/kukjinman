@@ -22,6 +22,14 @@
 <img src="https://img.shields.io/badge/CMake-10f5a4?style=flat-square&logo=CMake&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-808080?style=flat-square&logo=Git&logoColor=white"/>
 
+<br>
+<img src="https://img.shields.io/badge/NumPy-E34F26?style=flat-square&logo=NumPy&logoColor=white"/>
+<img src="https://img.shields.io/badge/pandas-E34F26?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/SPI-87cefa?style=flat-square&logo=SPI&logoColor=white"/>
+<img src="https://img.shields.io/badge/curl-0000FF?style=flat-square&logo=curl&logoColor=white"/>
+
+  
+
 <br><br>  
   
 <h3 align="center"> Contact Me </h3>
