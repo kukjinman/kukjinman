@@ -3,7 +3,7 @@
 <hr>
 <br> 
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kukjinman&show_icons=true&theme=vision-friendly-dark)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kukjinman&layout=compact&hide=jupyter%20notebook)](https://github.com/kukjinman/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kukjinman&show_icons=true&theme=vision-friendly-dark)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kukjinman&layout=compact&hide=jupyter%20notebook&hide=html)](https://github.com/kukjinman/github-readme-stats)
 
 <br>
 <hr/>
