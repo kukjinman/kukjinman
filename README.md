@@ -1,13 +1,5 @@
 <div align="center">
 
-<hr>
-<br> 
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kukjinman&show_icons=true&theme=vision-friendly-dark)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kukjinman&layout=compact&hide=jupyter%20notebook)](https://github.com/kukjinman/github-readme-stats)
-
-<br>
-<hr/>
-
 <br>
 
 <h3 align="center"> Tech Stack </h3>
@@ -15,6 +7,7 @@
 <img src="https://img.shields.io/badge/Python-E34F26?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-87cefa?style=flat-square&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-0000FF?style=flat-square&logo=C++&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-00004F?style=flat-square&logo=C++&logoColor=white"/>
 <img src="https://img.shields.io/badge/CMake-10f5a4?style=flat-square&logo=CMake&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-808080?style=flat-square&logo=Git&logoColor=white"/>
 
