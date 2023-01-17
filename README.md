@@ -14,7 +14,7 @@
 <br>
 <img src="https://img.shields.io/badge/NumPy-E34F26?style=flat-square&logo=NumPy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android-87cefa?style=flat-square&logo=SPI&logoColor=white"/>
-<img src="https://img.shields.io/badge/QNX-0000FF?style=flat-square&logo=curl&logoColor=white"/>
+<img src="https://img.shields.io/badge/QNX-0000FF?style=flat-square&logoColor=white"/>
   
 
 <br> 
