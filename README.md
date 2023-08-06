@@ -33,6 +33,7 @@
 <h3 align="center"> Contact Me </h3>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thater@naver.com)](mailto:thater@naver.com)  &nbsp;[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EA%B5%AD%EC%A7%84-%EC%A0%95-2aa367201/)](https://www.linkedin.com/in/%EA%B5%AD%EC%A7%84-%EC%A0%95-2aa367201/)
+ &nbsp;[![YouTube Badge](https://img.shields.io/badge/YouTube-111111?style=plastic&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCjDqlOAL2UHPgUdRYHF1ReA)
   
   
   
