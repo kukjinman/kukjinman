@@ -2,7 +2,7 @@
 
 <br>
 
-<h2 align="center"> Possible Programing Language </h2>
+<h3 align="center"> Possible Programing Language </h3>
 <img src="https://img.shields.io/badge/C-87cefa?style=plastic&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-0000FF?style=plastic&logo=C++&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-E34F26?style=plastic&logo=Python&logoColor=white"/>
@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/Kotlin-87cefa?style=plastic&logo=Kotlin&logoColor=white"/>
 <br>
 
-<h2 align="center"> Tech Stack </h2>
+<h3 align="center"> Tech Stack </h3>
 
 <br>
 <img src="https://img.shields.io/badge/NumPy-E34F26?style=flat-square&logo=NumPy&logoColor=white"/>
@@ -29,7 +29,7 @@
 
 <br> 
   
-<h2 align="center"> Contact Me </h2>
+<h3 align="center"> Contact Me </h3>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thater@naver.com)](mailto:thater@naver.com)  &nbsp;[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EA%B5%AD%EC%A7%84-%EC%A0%95-2aa367201/)](https://www.linkedin.com/in/%EA%B5%AD%EC%A7%84-%EC%A0%95-2aa367201/)
  &nbsp;[![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCjDqlOAL2UHPgUdRYHF1ReA)
