@@ -3,7 +3,7 @@
 <br>
 
 <h3 align="center"> Possible Programing Language </h3>
-<img src="https://img.shields.io/badge/C-87cefa?style=flat-square&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-87cefa?style=plastic&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-0000FF?style=flat-square&logo=C++&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-E34F26?style=flat-square&logo=Python&logoColor=white"/>
 <img scr="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
