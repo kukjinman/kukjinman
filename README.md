@@ -18,6 +18,8 @@
 
 <br>
 <img src="https://img.shields.io/badge/NumPy-E34F26?style=flat-square&logo=NumPy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-E34F26?style=flat-square&logo=pandas&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Android-87cefa?style=flat-square&logo=Android&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android Auto-8000fa?style=flat-square&logo=Android Auto&logoColor=white"/>
 
